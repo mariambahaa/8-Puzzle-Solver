@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1588906964 source:d:\data structures\bst\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589380675 source:d:\ds_1\bst\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
